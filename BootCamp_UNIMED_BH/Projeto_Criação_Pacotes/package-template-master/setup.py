@@ -15,7 +15,7 @@ setup(
     description="O pacote Photo_Album e usado para montar um album de fotos baseado em imagens que são convertidas para o padrão 'pdf'.",
     long_description=page_description,   
     long_description_content_type="text/markdown",
-    url="https://github.com/WisonMuniz/BootCamp_UNIMED_BH/Projeto_Criacao_Pacotes",
+    url="https://github.com/WilsonMuniz/Educacao_Devs.git",
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.8',
